@@ -10,8 +10,8 @@ This maps **known named repos** to logical layers. One repo can span multiple la
 | **Gateway webhook** | Inbound webhooks, signing, routing to core services | `lendpay-gateway-algorand-dorkfi` (URL TBD) |
 | **Protocol integration** | Chain- or protocol-specific adapters (e.g. Algorand, DorkFi) | `lendpay-gateway-algorand-dorkfi` (may overlap with gateway) |
 | **Timeline / documentation** | Dated history, decisions, releases | `lendpay-timeline` |
-| **Hackathon coordination** | Umbrella repo, judging artifacts, multi-repo pointers | `ETHGlobal2026OpenAgent` |
+| **Hackathon coordination** | Umbrella repo, judging artifacts, multi-repo pointers | `ETHGlobal2026OpenAgent` (status **reference**; hackathon concluded, inactive) |
 
-**Demos and spikes:** `openagent-demo1` sits primarily under **hackathon coordination** or **web app** depending on implementation; classify when URL and stack are known.
+**Demos and spikes:** `openagent-demo1` is classified as an **archived** pre–UI-integration spike (status in [repos.md](../repos.md)); it may be revived for future experimentation. Historically it sat under hackathon coordination or **web app** depending on implementation—treat as dormant unless reopened.
 
 **Reference:** [repos.md](../repos.md), [data/repos.json](../data/repos.json).

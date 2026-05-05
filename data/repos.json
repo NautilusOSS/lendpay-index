@@ -5,49 +5,60 @@
     "purpose": "Hackathon umbrella / coordination and related assets for ETHGlobal Open Agents 2026 and LendPay",
     "status": "unknown",
     "phase": "hackathon",
-    "owner": "TBD",
-    "notes": "Clarify post-hackathon role; may become reference-only.",
-    "related_links": ["https://github.com/NautilusOSS/lendpay-timeline"]
+    "owner": "temptemp3",
+    "notes": "Umbrella README documents sibling LendPay repos (see related_links).",
+    "related_links": [
+      "https://github.com/NautilusOSS/lendpay-timeline",
+      "https://github.com/temptemp3/ETHGlobal2026OpenAgent/blob/main/README.md#repos"
+    ]
   },
   {
     "name": "lendpay-app",
-    "url": "TBD",
+    "url": "https://github.com/NautilusOSS/lendpay-app",
     "purpose": "Frontend application for LendPay",
     "status": "unknown",
     "phase": "post-hackathon",
-    "owner": "TBD",
-    "notes": "",
-    "related_links": []
+    "owner": "NautilusOSS",
+    "notes": "GitHub URL from ETHGlobal2026OpenAgent README (Repos section).",
+    "related_links": [
+      "https://github.com/temptemp3/ETHGlobal2026OpenAgent/blob/main/README.md#repos"
+    ]
   },
   {
     "name": "lendpay-backend",
-    "url": "TBD",
+    "url": "https://github.com/NautilusOSS/lendpay-backend",
     "purpose": "Backend / API for LendPay",
     "status": "unknown",
     "phase": "post-hackathon",
-    "owner": "TBD",
-    "notes": "",
-    "related_links": []
+    "owner": "NautilusOSS",
+    "notes": "GitHub URL from ETHGlobal2026OpenAgent README (Repos section).",
+    "related_links": [
+      "https://github.com/temptemp3/ETHGlobal2026OpenAgent/blob/main/README.md#repos"
+    ]
   },
   {
     "name": "openagent-demo1",
-    "url": "TBD",
+    "url": "https://github.com/NautilusOSS/openagent-demo1",
     "purpose": "Demo or spike for Open Agents / LendPay",
     "status": "unknown",
     "phase": "hackathon",
-    "owner": "TBD",
-    "notes": "",
-    "related_links": []
+    "owner": "NautilusOSS",
+    "notes": "GitHub URL from ETHGlobal2026OpenAgent README (Repos section).",
+    "related_links": [
+      "https://github.com/temptemp3/ETHGlobal2026OpenAgent/blob/main/README.md#repos"
+    ]
   },
   {
     "name": "lendpay-gateway-algorand-dorkfi",
-    "url": "TBD",
+    "url": "https://github.com/NautilusOSS/lendpay-gateway-algorand-dorkfi",
     "purpose": "Gateway, webhook, or integration layer for Algorand and DorkFi-related LendPay flows",
     "status": "unknown",
     "phase": "post-hackathon",
-    "owner": "TBD",
-    "notes": "",
-    "related_links": []
+    "owner": "NautilusOSS",
+    "notes": "GitHub URL from ETHGlobal2026OpenAgent README (Repos section).",
+    "related_links": [
+      "https://github.com/temptemp3/ETHGlobal2026OpenAgent/blob/main/README.md#repos"
+    ]
   },
   {
     "name": "lendpay-timeline",
@@ -55,7 +66,7 @@
     "purpose": "Canonical project timeline and chronological documentation",
     "status": "active",
     "phase": "post-hackathon",
-    "owner": "TBD",
+    "owner": "NautilusOSS",
     "notes": "Single source of truth for dated project history.",
     "related_links": ["https://github.com/temptemp3/ETHGlobal2026OpenAgent"]
   }
